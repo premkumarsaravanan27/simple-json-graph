@@ -1,0 +1,11 @@
+{
+  "name": "Prem Kumar",
+  "role": "Front-End Developer",
+  "skills": ["HTML", "CSS", "JavaScript", "React"],
+  "location": "India",
+  "project": {
+    "title": "JSON Tree Visualizer",
+    "status": "In Progress",
+    "year": 2025
+  }
+}
